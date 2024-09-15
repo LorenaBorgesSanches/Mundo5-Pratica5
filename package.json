@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "express": "^4.21.0",
+    "jsonwebtoken": "^9.0.2"
+  },
+  "scripts": {
+    "start": "node --watch server.js"
+  },
+  "name": "mundo-5---missao-5",
+  "version": "1.0.0",
+  "main": "server.js",
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
